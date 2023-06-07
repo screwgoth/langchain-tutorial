@@ -1,1 +1,1 @@
-apikey = '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'
+apikey = 'sk-MySuperSecretPaidAPIKeyWhichActuallyWorksUnlikeTheLast1s'

@@ -5,4 +5,7 @@ It's a Youtube script generator using OpenAI LLM.
 ### Pre-requisites
     $ pip install openai langchain streamlit wikipedia chromadb tiktoken
 
+### Running
+    $ streamlit run app.py
+
 Reference : https://www.youtube.com/watch?v=MlK6SIjcjE8
